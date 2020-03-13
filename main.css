@@ -6,14 +6,12 @@ background-color: pink;
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
+=======
 #pizza {
 margin: 0px;
-
-
-
-	
 }
->>>>>>> 2b61a47192d3d663eb4cbb5089a043209088c720
+
 .title{
 background-color: white;
  height: 70px;
@@ -26,6 +24,7 @@ margin-left: 30%;
 background-color: orange;
 padding: 2%;
 }
+
 #container {
 border-radius: 30px;
 /*this make it float up to the left*/
@@ -36,5 +35,4 @@ padding: 3%;
 background-color: green;
 font-size: 80pt;
 border: 10px solid black;
- 
-}
+ }
